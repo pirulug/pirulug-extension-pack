@@ -1,8 +1,8 @@
 {
   "name": "pirulug-extension-pack",
   "displayName": "Pirulug Extension Pack",
-  "description": "",
-  "version": "0.0.2",
+  "description": "The ultimate collection of VS Code extensions by Pirulug. Includes professional themes, icon packs, essential keymaps, and powerful Bootstrap 5 development tools.",
+  "version": "1.0.0",
   "publisher": "pirulug",
   "engines": {
     "vscode": "^1.92.0"
@@ -11,14 +11,22 @@
     "Extension Packs"
   ],
   "keywords": [
-    "pirulug"
+    "pirulug",
+    "theme",
+    "icons",
+    "bootstrap",
+    "bootstrap5",
+    "snippets",
+    "intellisense",
+    "productivity",
+    "keymap"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pirulug/pirulug-extension-pack.git"
+    "url": "https://github.com/Pirulug/vscode-pirulug-extension-pack.git"
   },
   "bugs": {
-    "url": "https://github.com/Pirulug/pirulug-extension-pack/issues"
+    "url": "https://github.com/Pirulug/vscode-pirulug-extension-pack/issues"
   },
   "icon": "icon-pirulug.png",
   "extensionPack": [
